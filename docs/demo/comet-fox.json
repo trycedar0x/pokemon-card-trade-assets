@@ -1,0 +1,25 @@
+{
+  "name": "Comet Fox #1",
+  "symbol": "CMFOX",
+  "description": "Original sample digital card for a Solana devnet trading demonstration. No real-money value.",
+  "image": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/comet-fox.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Comet Fox"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Demo 1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/comet-fox.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
