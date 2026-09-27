@@ -1,0 +1,25 @@
+{
+  "name": "Tide Otter #5",
+  "symbol": "CMFOX",
+  "description": "Original Tide Otter digital card for a Solana devnet trading demonstration. No real-money value.",
+  "image": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/tide-otter.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Tide Otter"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Demo 5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/tide-otter.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

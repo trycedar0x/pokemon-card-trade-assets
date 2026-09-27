@@ -1,0 +1,25 @@
+{
+  "name": "Moss Turtle #3",
+  "symbol": "CMFOX",
+  "description": "Original Moss Turtle digital card for a Solana devnet trading demonstration. No real-money value.",
+  "image": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/moss-turtle.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Moss Turtle"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Demo 3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/moss-turtle.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

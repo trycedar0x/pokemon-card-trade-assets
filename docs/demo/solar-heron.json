@@ -1,0 +1,25 @@
+{
+  "name": "Solar Heron #4",
+  "symbol": "CMFOX",
+  "description": "Original Solar Heron digital card for a Solana devnet trading demonstration. No real-money value.",
+  "image": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/solar-heron.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Solar Heron"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Demo 4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/solar-heron.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}

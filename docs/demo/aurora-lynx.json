@@ -1,0 +1,25 @@
+{
+  "name": "Aurora Lynx #2",
+  "symbol": "CMFOX",
+  "description": "Original Aurora Lynx digital card for a Solana devnet trading demonstration. No real-money value.",
+  "image": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/aurora-lynx.svg",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "Aurora Lynx"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Demo 2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://trycedar0x.github.io/pokemon-card-trade-assets/demo/aurora-lynx.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
